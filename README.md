@@ -73,3 +73,16 @@
 - Fixed how the components were rendering using `TalawaPluginProvider`
 
 ### Talawa API
+
+#### Issue : [Feature Request : Performing Donations ( Ability to store donation transaction in Talwa-api )](https://github.com/PalisadoesFoundation/talawa-api/issues/755)
+ 
+ #### Pull request: [ [GSoC]Feature Request : Performing Donations ( Ability to store donation transaction in Talwa-api ) ](https://github.com/PalisadoesFoundation/talawa-api/pull/756)
+ 
+ Summary : 
+- Implementation of Donation  API routes for talawa-api
+-  Mutations and Queries
+    - `getDonations` query to get list of donatinons made for that organization.
+    - `getDonationById` query to get details about the speicic donation.
+    - `getDonationByOrgsId` query getting the list of donation with thier organization id.
+    - `createDonation` mutation to create new Donation.
+    - `deleteDonation` mutation to delete the donation record in case if the transaction fails to complete from `flutter_braintree` pacakge or by the user.
