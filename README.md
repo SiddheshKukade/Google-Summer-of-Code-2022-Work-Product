@@ -9,7 +9,6 @@
 
 #### ii. The creation of a donations plugin to prove the concept
 
----
 
 ## Issue and Pull requests :
 
@@ -55,7 +54,6 @@
 - Added GraphQL mutation to update install staatus of the plugin for a specific organization `updatePluginStatus`
 - Added GraphQL mutation to update the installed organizations list of plugin `updatePluginInstalledOrgs`
 
- ---
  ## 2. The creation of Donations plugin to prove the concept
   Donation is a feature on `talawa` mobile app that enables organization members to donate to current organization throught credit card.The Donation is also implemented as plugin which makes it accessible in the mobile app only if it is installed by the admin of that organization
   
@@ -87,7 +85,6 @@
     - `createDonation` mutation to create new Donation.
     - `deleteDonation` mutation to delete the donation record in case if the transaction fails to complete from `flutter_braintree` pacakge or by the user.
     
----
 ## Other
 
 #### Technical Documenmtation for plugins 
@@ -117,3 +114,6 @@
  - Step-by-step example of actual conversion of a feature to a plugin (ex. Donation feature) 
 
 
+# Conclusion 
+I have spent my summer implementing a plugin for talawa application. This problem statement encouraged me to deeply study some technical concepts and writing.
+I've worked with my mentors @DMills27 @yasharthdubey & @palisadoes to design and implement the plugin architecture with a Donation feature as a plugin to prove the concept. I would also like to thank my mentors, org admins and other contributors for helping me to make the project possible. Palisadoes Foundation has a very supportive community that believes in helping each other grow together.
