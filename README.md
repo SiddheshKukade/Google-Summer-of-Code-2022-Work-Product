@@ -86,3 +86,33 @@
     - `getDonationByOrgsId` query getting the list of donation with thier organization id.
     - `createDonation` mutation to create new Donation.
     - `deleteDonation` mutation to delete the donation record in case if the transaction fails to complete from `flutter_braintree` pacakge or by the user.
+
+## Other
+
+#### Technical Documenmtation for plugins 
+
+### Talawa Docs - The documentation for talawa project.
+
+
+#### Issue : [Feature Request : Adding Plugin Architecture Overview Page](https://github.com/PalisadoesFoundation/talawa-docs/issues/251)
+ 
+#### Pull request: [ [GSOC]Docs : Plugin Architecture Overview Page  ](https://github.com/PalisadoesFoundation/talawa-docs/pull/254)
+ 
+ Documentation Includes : 
+ - Overview of What a plugin actually means in talawa repositories
+ - A High-level diagram to describe workflow with description
+ - Code Explanation
+
+
+#### Issue : [Docs : Adding Step by Step Plugin Example with Code explanation](https://github.com/PalisadoesFoundation/talawa-docs/issues/255)
+ 
+#### Pull request:
+  [ [GSOC]Docs : Adding Step by Step Plugin Example with Code explanation   ](https://github.com/PalisadoesFoundation/talawa-docs/pull/256)
+ [[GSOC] Docs : Adding Step by Step Plugin Example](https://github.com/PalisadoesFoundation/talawa-docs/pull/258)
+ 
+ 
+ Documentation Includes : 
+ - Technical overview of the steps used to convert the features into pluigns
+ - Step-by-step example of actual conversion of a feature to a plugin (ex. Donation feature) 
+
+
