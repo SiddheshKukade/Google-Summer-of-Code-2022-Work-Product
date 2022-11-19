@@ -105,8 +105,8 @@
 #### Issue : [Docs : Adding Step by Step Plugin Example with Code explanation](https://github.com/PalisadoesFoundation/talawa-docs/issues/255)
  
 #### Pull request:
-  [ [GSOC]Docs : Adding Step by Step Plugin Example with Code explanation   ](https://github.com/PalisadoesFoundation/talawa-docs/pull/256)
- [[GSOC] Docs : Adding Step by Step Plugin Example](https://github.com/PalisadoesFoundation/talawa-docs/pull/258)
+ * [ [GSOC]Docs : Adding Step by Step Plugin Example with Code explanation   ](https://github.com/PalisadoesFoundation/talawa-docs/pull/256)
+ * [[GSOC] Docs : Adding Step by Step Plugin Example](https://github.com/PalisadoesFoundation/talawa-docs/pull/258)
  
  
  Documentation Includes : 
