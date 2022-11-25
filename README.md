@@ -119,34 +119,4 @@ I have spent my summer implementing a plugin for talawa application. This proble
 I've worked with my mentors [Dominic Mills](https://github.com/DMills27) , [Yash Dubey](https://github.com/yasharth291) & [Peter Harrison](https://github.com/palisadoes) to design and implement the plugin architecture with a Donation feature as a plugin to prove the concept thier support and feedback helped me to very much. I would also like to thank my mentors, org admins and other contributors for helping me to make the project possible. Palisadoes Foundation has a very supportive community that believes in helping each other to grow together.
 
 
-## Commit History 
-
-<h3> Talawa Docs </h3>
-<img width="500px" height="300px" src="https://user-images.githubusercontent.com/65951872/202918709-6ab5b5f3-fbdb-4771-ac0e-fbd4e22cabb7.png" />
-
-</div>
-
-
-<div align="left">
-
-<h3> Talawa Admin </h3>
-<img width="500px" height="300px" src="https://user-images.githubusercontent.com/65951872/202918792-fb01a8bd-e294-4f84-823b-0f50a930d549.png" />
-
-</div>
-
-
-<div align="left">
-
-<h3> Talawa API </h3>
-<img width="500px" height="300px" src="https://user-images.githubusercontent.com/65951872/202919186-890bf7c4-1a92-4f28-bd04-2347fa14c85d.png" />
-
-</div>
-
-
-<div align="left">
-
-<h3> Talawa </h3>
-<img width="500px" height="300px" src="https://user-images.githubusercontent.com/65951872/202919332-04ce4953-b688-444d-974c-073b62c18513.png" />
-
-</div>
 
