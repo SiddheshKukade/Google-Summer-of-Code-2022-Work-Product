@@ -113,7 +113,8 @@
  - Technical overview of the steps used to convert the features into pluigns
  - Step-by-step example of actual conversion of a feature to a plugin (ex. Donation feature) 
 
-
+## Working Demo Video of Plugin Architecture : 
+https://user-images.githubusercontent.com/65951872/189489729-ba913de7-8376-438f-a29d-bfcabecaddd2.mp4
 # Conclusion 
 I have spent my summer implementing a plugin for talawa application. This problem statement encouraged me to deeply study some technical concepts and writing.
 I've worked with my mentors [Dominic Mills](https://github.com/DMills27) , [Yash Dubey](https://github.com/yasharth291) & [Peter Harrison](https://github.com/palisadoes) to design and implement the plugin architecture with a Donation feature as a plugin to prove the concept thier support and feedback helped me to very much. I would also like to thank my mentors, org admins and other contributors for helping me to make the project possible. Palisadoes Foundation has a very supportive community that believes in helping each other to grow together.
